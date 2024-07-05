@@ -1,7 +1,7 @@
 # U.S. Medical Insurance Costs
 
 ## Project Description
-In this project, I analyzed a dataset containing medical insurance costs for various patients. The goal was to understand the factors that influence insurance charges and to gain insights into the data through various statistical methods and visualizations.
+In this project, I analyzed a dataset containing medical insurance costs for various patients. The goal was to understand the factors that may influence insurance charges and to gain insights into the data through various statistical methods and visualizations.
 
 ## Data Overview
 The dataset used in this project contains the following columns:
